@@ -11,7 +11,7 @@
 /android/build
 
 # VSCode project settings
-/build/*
+###/build/*
 
 # Android output directories
 gradle*

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<animation>
+	<metadata name="ParentTracks" type="StringVariantMap">
+		<variant name="b_LeftFoot01_017" type="String" value="b_LeftLeg02_016" />
+		<variant name="b_LeftLeg02_016" type="String" value="b_LeftLeg01_015" />
+		<variant name="b_RightLeg01_019" type="String" value="b_Hip_01" />
+		<variant name="b_RightFoot01_021" type="String" value="b_RightLeg02_020" />
+		<variant name="b_Tail03_014" type="String" value="b_Tail02_013" />
+		<variant name="b_RightUpperArm_06" type="String" value="b_Spine02_03" />
+		<variant name="b_RightHand_08" type="String" value="b_RightForeArm_07" />
+		<variant name="b_Tail01_012" type="String" value="b_Hip_01" />
+		<variant name="b_LeftLeg01_015" type="String" value="b_Hip_01" />
+		<variant name="b_RightForeArm_07" type="String" value="b_RightUpperArm_06" />
+		<variant name="b_Neck_04" type="String" value="b_Spine02_03" />
+		<variant name="b_Spine01_02" type="String" value="b_Hip_01" />
+		<variant name="b_LeftHand_011" type="String" value="b_LeftForeArm_010" />
+		<variant name="b_LeftForeArm_010" type="String" value="b_LeftUpperArm_09" />
+		<variant name="b_LeftUpperArm_09" type="String" value="b_Spine02_03" />
+		<variant name="b_RightLeg02_020" type="String" value="b_RightLeg01_019" />
+		<variant name="b_Spine02_03" type="String" value="b_Spine01_02" />
+		<variant name="b_Head_05" type="String" value="b_Neck_04" />
+		<variant name="b_Tail02_013" type="String" value="b_Tail01_012" />
+		<variant name="b_Hip_01" type="String" value="" />
+	</metadata>
+	<metadata name="Looped" type="Bool" value="true" />
+	<metadata name="FrameStep" type="Float" value="0.041667" />
+	<metadata name="FrameRate" type="Int" value="24" />
+	<metadata name="Model" type="String" value="Assets/Fox.glb.d/Models/fox1.mdl" />
+	<metadata name="Velocity" type="Vector3" value="0 0 0" />
+</animation>

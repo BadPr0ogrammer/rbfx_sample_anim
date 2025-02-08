@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<material>
+	<technique name="Techniques/LitOpaqueNormalMap.xml" quality="1" loddistance="0.000000" />
+	<texture slot="Albedo" name="Models/Combat_jump_up.fbx.d/Textures/Soldier_Body_diffuse.png" />
+	<texture slot="Normal" name="Models/Combat_jump_up.fbx.d/Textures/Soldier_Body_normal.png" />
+	<shader vsdefines="PBR " psdefines="PBR " />
+	<parameter name="MatEnvMapColor" value="1 1 1" />
+	<parameter name="NormalScale" value="1.000000" />
+	<parameter name="VOffset" value="0 1 0 0" />
+	<parameter name="MatDiffColor" value="0.906332 0.906332 0.906332 1" />
+	<parameter name="DielectricReflectance" value="0.500000" />
+	<parameter name="Metallic" value="0.400000" />
+	<parameter name="MatSpecColor" value="0 0 0 1" />
+	<parameter name="MatEmissiveColor" value="0 0 0" />
+	<parameter name="UOffset" value="1 0 0 0" />
+	<parameter name="AlphaCutoff" value="0.500000" />
+	<parameter name="Roughness" value="0.490532" />
+	<cull value="ccw" />
+	<shadowcull value="ccw" />
+	<fill value="solid" />
+	<depthbias constant="0.000000" slopescaled="0.000000" normaloffset="0.000000" />
+	<alphatocoverage enable="false" />
+	<lineantialias enable="false" />
+	<renderorder value="128" />
+	<occlusion enable="true" />
+</material>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<animation>
+	<metadata name="ParentTracks" type="StringVariantMap">
+		<variant name="RightForeArm" type="String" value="RightArm" />
+		<variant name="RightHandRing2" type="String" value="RightHandRing1" />
+		<variant name="RightHandPinky3" type="String" value="RightHandPinky2" />
+		<variant name="RightHandRing3" type="String" value="RightHandRing2" />
+		<variant name="Head" type="String" value="Neck" />
+		<variant name="RightHandPinky2" type="String" value="RightHandPinky1" />
+		<variant name="RightLeg" type="String" value="RightUpLeg" />
+		<variant name="RightHand" type="String" value="RightForeArm" />
+		<variant name="LeftHandIndex1" type="String" value="LeftHand" />
+		<variant name="LeftHandIndex3" type="String" value="LeftHandIndex2" />
+		<variant name="LeftHandIndex2" type="String" value="LeftHandIndex1" />
+		<variant name="LeftHand" type="String" value="LeftForeArm" />
+		<variant name="RightToeBase" type="String" value="RightFoot" />
+		<variant name="LeftLeg" type="String" value="LeftUpLeg" />
+		<variant name="LeftHandThumb1" type="String" value="LeftHand" />
+		<variant name="LeftHandMiddle2" type="String" value="LeftHandMiddle1" />
+		<variant name="LeftHandThumb3" type="String" value="LeftHandThumb2" />
+		<variant name="LeftHandMiddle3" type="String" value="LeftHandMiddle2" />
+		<variant name="Spine2" type="String" value="Spine1" />
+		<variant name="LeftHandThumb2" type="String" value="LeftHandThumb1" />
+		<variant name="LeftHandPinky2" type="String" value="LeftHandPinky1" />
+		<variant name="LeftHandMiddle1" type="String" value="LeftHand" />
+		<variant name="Spine" type="String" value="Hips" />
+		<variant name="LeftHandPinky3" type="String" value="LeftHandPinky2" />
+		<variant name="RightHandMiddle3" type="String" value="RightHandMiddle2" />
+		<variant name="Spine1" type="String" value="Spine" />
+		<variant name="RightHandMiddle2" type="String" value="RightHandMiddle1" />
+		<variant name="LeftHandPinky1" type="String" value="LeftHand" />
+		<variant name="RightFoot" type="String" value="RightLeg" />
+		<variant name="RightHandMiddle1" type="String" value="RightHand" />
+		<variant name="RightArm" type="String" value="RightShoulder" />
+		<variant name="LeftForeArm" type="String" value="LeftArm" />
+		<variant name="RightUpLeg" type="String" value="Hips" />
+		<variant name="RightHandIndex2" type="String" value="RightHandIndex1" />
+		<variant name="RightShoulder" type="String" value="Spine2" />
+		<variant name="RightHandIndex3" type="String" value="RightHandIndex2" />
+		<variant name="LeftShoulder" type="String" value="Spine2" />
+		<variant name="RightHandIndex1" type="String" value="RightHand" />
+		<variant name="LeftHandRing1" type="String" value="LeftHand" />
+		<variant name="LeftUpLeg" type="String" value="Hips" />
+		<variant name="LeftFoot" type="String" value="LeftLeg" />
+		<variant name="RightHandThumb2" type="String" value="RightHandThumb1" />
+		<variant name="LeftHandRing3" type="String" value="LeftHandRing2" />
+		<variant name="RightHandThumb3" type="String" value="RightHandThumb2" />
+		<variant name="Hips" type="String" value="" />
+		<variant name="LeftHandRing2" type="String" value="LeftHandRing1" />
+		<variant name="RightHandThumb1" type="String" value="RightHand" />
+		<variant name="LeftArm" type="String" value="LeftShoulder" />
+		<variant name="Neck" type="String" value="Spine2" />
+		<variant name="LeftToeBase" type="String" value="LeftFoot" />
+		<variant name="RightHandPinky1" type="String" value="RightHand" />
+		<variant name="RightHandRing1" type="String" value="RightHand" />
+	</metadata>
+	<metadata name="Looped" type="Bool" value="false" />
+	<metadata name="FrameStep" type="Float" value="0.033333" />
+	<metadata name="FrameRate" type="Int" value="30" />
+	<metadata name="Model" type="String" value="Models/Combat_idle.fbx.d/Models/Soldier_head.mdl" />
+</animation>

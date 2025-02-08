@@ -1,0 +1,24 @@
+{
+	"Addons": {
+		"Camera": {
+			"Position": "0 6.586763 -13.173528",
+			"Rotation": "0.969912 0.235678 0.059322 -0.014415"
+		},
+		"CreatePrefabFrom": {},
+		"DebugInfo": {},
+		"DragAndDropMaterial": {},
+		"DragAndDropPrefab": {},
+		"SceneHierarchy": {},
+		"Screenshot": {},
+		"SelectionRenderer": {},
+		"Selector": {},
+		"TransformGizmo": {}
+	},
+	"Selection": {
+		"ActiveComponentId": 0,
+		"ActiveNodeId": 0,
+		"ActiveNodeOrSceneId": 0,
+		"ComponentIds": [],
+		"NodeIds": []
+	}
+}

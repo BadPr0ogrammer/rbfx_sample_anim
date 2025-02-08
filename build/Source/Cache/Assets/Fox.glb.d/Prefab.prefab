@@ -1,0 +1,1056 @@
+{
+	"components": [
+		{
+			"_typeName": "Octree"
+		},
+		{
+			"_typeName": "RenderPipeline",
+			"attributes": [
+				{
+					"name": "Render Passes",
+					"type": "VariantVector",
+					"value": [
+						{
+							"type": "String",
+							"value": "Postprocess: Exposure"
+						},
+						{
+							"type": "Bool",
+							"value": true
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: SSAO"
+						},
+						{
+							"type": "Bool",
+							"value": false
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: Bloom"
+						},
+						{
+							"type": "Bool",
+							"value": false
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: Draw Outlines"
+						},
+						{
+							"type": "Bool",
+							"value": true
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: Tone Mapping"
+						},
+						{
+							"type": "Bool",
+							"value": true
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: Adjust Color"
+						},
+						{
+							"type": "Bool",
+							"value": true
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: FXAA v2"
+						},
+						{
+							"type": "Bool",
+							"value": false
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: FXAA v3"
+						},
+						{
+							"type": "Bool",
+							"value": true
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: Chromatic Aberration"
+						},
+						{
+							"type": "Bool",
+							"value": false
+						},
+						{
+							"type": "String",
+							"value": "Postprocess: Vignette"
+						},
+						{
+							"type": "Bool",
+							"value": false
+						}
+					]
+				},
+				{
+					"name": "Render Path Parameters",
+					"type": "StringVariantMap",
+					"value": [
+						{
+							"key": "Vignette: Radius",
+							"type": "Float",
+							"value": 0.5
+						},
+						{
+							"key": "Adjust Color: ColorOffset",
+							"type": "Vector4",
+							"value": "0 0 0 0"
+						},
+						{
+							"key": "Exposure: Max",
+							"type": "Float",
+							"value": 3.0
+						},
+						{
+							"key": "Vignette: Intensity",
+							"type": "Float",
+							"value": 0.4000000059604645
+						},
+						{
+							"key": "SSAO: Far Distance",
+							"type": "Float",
+							"value": 100.0
+						},
+						{
+							"key": "SSAO: Near Distance",
+							"type": "Float",
+							"value": 1.0
+						},
+						{
+							"key": "Bloom: Base Intensity",
+							"type": "Float",
+							"value": 1.0
+						},
+						{
+							"key": "SSAO: Begin Fade Distance",
+							"type": "Float",
+							"value": 100.0
+						},
+						{
+							"key": "Adjust Color: HSVParams",
+							"type": "Vector4",
+							"value": "1 1 1 1"
+						},
+						{
+							"key": "Bloom: Num Iterations",
+							"type": "Int",
+							"value": 5
+						},
+						{
+							"key": "Bloom: Min Brightness",
+							"type": "Float",
+							"value": 0.800000011920929
+						},
+						{
+							"key": "SSAO: Strength",
+							"type": "Float",
+							"value": 0.699999988079071
+						},
+						{
+							"key": "SSAO: Exponent",
+							"type": "Float",
+							"value": 1.5
+						},
+						{
+							"key": "Chromatic Aberration: Amount",
+							"type": "Float",
+							"value": 0.4000000059604645
+						},
+						{
+							"key": "SSAO: Downscale",
+							"type": "Int",
+							"value": 0
+						},
+						{
+							"key": "Bloom: Max Brightness",
+							"type": "Float",
+							"value": 1.0
+						},
+						{
+							"key": "Tone Mapping: Mode",
+							"type": "Int",
+							"value": 0
+						},
+						{
+							"key": "Exposure: Automatic",
+							"type": "Bool",
+							"value": false
+						},
+						{
+							"key": "Tone Mapping: Mode@",
+							"type": "StringVector",
+							"value": [
+								"None",
+								"Reinhard",
+								"ReinhardWhite",
+								"Uncharted2"
+							]
+						},
+						{
+							"key": "Exposure: Adapt Rate",
+							"type": "Float",
+							"value": 0.6000000238418579
+						},
+						{
+							"key": "SSAO: Normal Threshold",
+							"type": "Float",
+							"value": 0.20000000298023225
+						},
+						{
+							"key": "Exposure: Min",
+							"type": "Float",
+							"value": 1.0
+						},
+						{
+							"key": "SSAO: Depth Threshold",
+							"type": "Float",
+							"value": 0.10000000149011612
+						},
+						{
+							"key": "SSAO: Far Radius",
+							"type": "Float",
+							"value": 1.0
+						},
+						{
+							"key": "Bloom: Iteration Intensity Factor",
+							"type": "Float",
+							"value": 1.0
+						},
+						{
+							"key": "FXAA: FXAAParams",
+							"type": "Vector3",
+							"value": "0.4 0.5 0.75"
+						},
+						{
+							"key": "SSAO: End Fade Distance",
+							"type": "Float",
+							"value": 200.0
+						},
+						{
+							"key": "Adjust Color: ColorFilter",
+							"type": "Vector4",
+							"value": "1 1 1 1"
+						},
+						{
+							"key": "SSAO: Near Radius",
+							"type": "Float",
+							"value": 0.05000000074505806
+						},
+						{
+							"key": "Vignette: Color",
+							"type": "Color",
+							"value": "0 0 0 0.4"
+						}
+					]
+				},
+				{
+					"name": "Color Space",
+					"type": "String",
+					"value": "LDR Linear"
+				},
+				{
+					"name": "PCF Kernel Size",
+					"type": "Int",
+					"value": 5
+				}
+			]
+		}
+	],
+	"nodes": [
+		{
+			"attributes": [
+				{
+					"name": "Name",
+					"type": "String",
+					"value": "Fox"
+				}
+			],
+			"components": [
+				{
+					"_typeName": "AnimatedModel",
+					"attributes": [
+						{
+							"name": "Model",
+							"type": "ResourceRef",
+							"value": "Model;Assets/Fox.glb.d/Models/fox1.mdl"
+						},
+						{
+							"name": "Material",
+							"type": "ResourceRefList",
+							"value": "Material;Assets/Fox.glb.d/Materials/fox_material_Lit.xml"
+						},
+						{
+							"name": "Cast Shadows",
+							"type": "Bool",
+							"value": true
+						},
+						{
+							"name": "Bone Animation Enabled",
+							"type": "VariantVector",
+							"value": [
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								}
+							]
+						}
+					]
+				},
+				{
+					"_typeName": "AnimationController",
+					"attributes": [
+						{
+							"name": "Animations",
+							"type": "VariantVector",
+							"value": [
+								{
+									"type": "Int",
+									"value": 1
+								},
+								{
+									"type": "ResourceRef",
+									"value": "Animation;Assets/Fox.glb.d/Animations/Survey.ani"
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Int",
+									"value": 0
+								},
+								{
+									"type": "Int",
+									"value": 0
+								},
+								{
+									"type": "String",
+									"value": ""
+								},
+								{
+									"type": "Float",
+									"value": 0.0
+								},
+								{
+									"type": "Float",
+									"value": 0.0
+								},
+								{
+									"type": "Float",
+									"value": 0.0
+								},
+								{
+									"type": "Float",
+									"value": 3.4166667461395265
+								},
+								{
+									"type": "Float",
+									"value": 1.0
+								},
+								{
+									"type": "Bool",
+									"value": true
+								},
+								{
+									"type": "Float",
+									"value": 1.0
+								},
+								{
+									"type": "Float",
+									"value": 1.0
+								},
+								{
+									"type": "Float",
+									"value": 0.0
+								}
+							]
+						}
+					]
+				}
+			],
+			"nodes": [
+				{
+					"attributes": [
+						{
+							"name": "Name",
+							"type": "String",
+							"value": "_rootJoint"
+						}
+					],
+					"nodes": [
+						{
+							"attributes": [
+								{
+									"name": "Name",
+									"type": "String",
+									"value": "b_Root_00"
+								},
+								{
+									"name": "Rotation",
+									"type": "Quaternion",
+									"value": "0.707105 -0.707108 0 0"
+								}
+							],
+							"nodes": [
+								{
+									"attributes": [
+										{
+											"name": "Name",
+											"type": "String",
+											"value": "b_Hip_01"
+										},
+										{
+											"name": "Position",
+											"type": "Vector3",
+											"value": "0 0.267484 0.429382"
+										},
+										{
+											"name": "Rotation",
+											"type": "Quaternion",
+											"value": "0.695482 0.127691 0.695482 0.12769"
+										}
+									],
+									"nodes": [
+										{
+											"attributes": [
+												{
+													"name": "Name",
+													"type": "String",
+													"value": "b_Spine01_02"
+												},
+												{
+													"name": "Position",
+													"type": "Vector3",
+													"value": "-0.128506 0 0"
+												},
+												{
+													"name": "Rotation",
+													"type": "Quaternion",
+													"value": "0.807099 0 0 0.590416"
+												}
+											],
+											"nodes": [
+												{
+													"attributes": [
+														{
+															"name": "Name",
+															"type": "String",
+															"value": "b_Spine02_03"
+														},
+														{
+															"name": "Position",
+															"type": "Vector3",
+															"value": "-0.216558 -1.18256e-06 0"
+														},
+														{
+															"name": "Rotation",
+															"type": "Quaternion",
+															"value": "0.999848 0 0 -0.017412"
+														}
+													],
+													"nodes": [
+														{
+															"attributes": [
+																{
+																	"name": "Name",
+																	"type": "String",
+																	"value": "b_Neck_04"
+																},
+																{
+																	"name": "Position",
+																	"type": "Vector3",
+																	"value": "-0.256491 0 0"
+																},
+																{
+																	"name": "Rotation",
+																	"type": "Quaternion",
+																	"value": "0.95287 0 0 -0.303379"
+																}
+															],
+															"nodes": [
+																{
+																	"attributes": [
+																		{
+																			"name": "Name",
+																			"type": "String",
+																			"value": "b_Head_05"
+																		},
+																		{
+																			"name": "Position",
+																			"type": "Vector3",
+																			"value": "-0.13377 0 0"
+																		},
+																		{
+																			"name": "Rotation",
+																			"type": "Quaternion",
+																			"value": "0.916391 0 0 0.400285"
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"attributes": [
+																{
+																	"name": "Name",
+																	"type": "String",
+																	"value": "b_RightUpperArm_06"
+																},
+																{
+																	"name": "Position",
+																	"type": "Vector3",
+																	"value": "-0.186779 -0.042973 0.069676"
+																},
+																{
+																	"name": "Rotation",
+																	"type": "Quaternion",
+																	"value": "0.701997 0.000467 0.000446 0.712179"
+																}
+															],
+															"nodes": [
+																{
+																	"attributes": [
+																		{
+																			"name": "Name",
+																			"type": "String",
+																			"value": "b_RightForeArm_07"
+																		},
+																		{
+																			"name": "Position",
+																			"type": "Vector3",
+																			"value": "-0.230451 0 0"
+																		},
+																		{
+																			"name": "Rotation",
+																			"type": "Quaternion",
+																			"value": "0.999311 0 0 -0.037126"
+																		}
+																	],
+																	"nodes": [
+																		{
+																			"attributes": [
+																				{
+																					"name": "Name",
+																					"type": "String",
+																					"value": "b_RightHand_08"
+																				},
+																				{
+																					"name": "Position",
+																					"type": "Vector3",
+																					"value": "-0.193501 -0.00146 0"
+																				},
+																				{
+																					"name": "Rotation",
+																					"type": "Quaternion",
+																					"value": "0.887511 -0.012037 0.007822 -0.460562"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														},
+														{
+															"attributes": [
+																{
+																	"name": "Name",
+																	"type": "String",
+																	"value": "b_LeftUpperArm_09"
+																},
+																{
+																	"name": "Position",
+																	"type": "Vector3",
+																	"value": "-0.186779 -0.042973 -0.06968"
+																},
+																{
+																	"name": "Rotation",
+																	"type": "Quaternion",
+																	"value": "0.70209 0.000497 0.000882 0.712088"
+																}
+															],
+															"nodes": [
+																{
+																	"attributes": [
+																		{
+																			"name": "Name",
+																			"type": "String",
+																			"value": "b_LeftForeArm_010"
+																		},
+																		{
+																			"name": "Position",
+																			"type": "Vector3",
+																			"value": "-0.230451 0 0"
+																		},
+																		{
+																			"name": "Rotation",
+																			"type": "Quaternion",
+																			"value": "0.999311 0 0 -0.037126"
+																		}
+																	],
+																	"nodes": [
+																		{
+																			"attributes": [
+																				{
+																					"name": "Name",
+																					"type": "String",
+																					"value": "b_LeftHand_011"
+																				},
+																				{
+																					"name": "Position",
+																					"type": "Vector3",
+																					"value": "-0.193501 -0.00146 0"
+																				},
+																				{
+																					"name": "Rotation",
+																					"type": "Quaternion",
+																					"value": "0.887616 0.016518 -0.014014 -0.460076"
+																				}
+																			]
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"attributes": [
+												{
+													"name": "Name",
+													"type": "String",
+													"value": "b_Tail01_012"
+												},
+												{
+													"name": "Position",
+													"type": "Vector3",
+													"value": "-0.042604 0.159588 0"
+												},
+												{
+													"name": "Rotation",
+													"type": "Quaternion",
+													"value": "0.189437 0 0 -0.981893"
+												}
+											],
+											"nodes": [
+												{
+													"attributes": [
+														{
+															"name": "Name",
+															"type": "String",
+															"value": "b_Tail02_013"
+														},
+														{
+															"name": "Position",
+															"type": "Vector3",
+															"value": "-0.124119 0 0"
+														},
+														{
+															"name": "Rotation",
+															"type": "Quaternion",
+															"value": "0.997574 0 0 0.069617"
+														}
+													],
+													"nodes": [
+														{
+															"attributes": [
+																{
+																	"name": "Name",
+																	"type": "String",
+																	"value": "b_Tail03_014"
+																},
+																{
+																	"name": "Position",
+																	"type": "Vector3",
+																	"value": "-0.242403 0 0"
+																},
+																{
+																	"name": "Rotation",
+																	"type": "Quaternion",
+																	"value": "0.99855 0 0 0.053833"
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"attributes": [
+												{
+													"name": "Name",
+													"type": "String",
+													"value": "b_LeftLeg01_015"
+												},
+												{
+													"name": "Position",
+													"type": "Vector3",
+													"value": "-0.048138 0.05154 -0.06968"
+												},
+												{
+													"name": "Rotation",
+													"type": "Quaternion",
+													"value": "-0.243041 0 0.000172 -0.970016"
+												}
+											],
+											"nodes": [
+												{
+													"attributes": [
+														{
+															"name": "Name",
+															"type": "String",
+															"value": "b_LeftLeg02_016"
+														},
+														{
+															"name": "Position",
+															"type": "Vector3",
+															"value": "-0.189442 0 0"
+														},
+														{
+															"name": "Rotation",
+															"type": "Quaternion",
+															"value": "0.929808 0 0 0.368044"
+														}
+													],
+													"nodes": [
+														{
+															"attributes": [
+																{
+																	"name": "Name",
+																	"type": "String",
+																	"value": "b_LeftFoot01_017"
+																},
+																{
+																	"name": "Position",
+																	"type": "Vector3",
+																	"value": "-0.179428 0 0"
+																},
+																{
+																	"name": "Rotation",
+																	"type": "Quaternion",
+																	"value": "0.888703 0.000248 0 -0.458484"
+																}
+															],
+															"nodes": [
+																{
+																	"attributes": [
+																		{
+																			"name": "Name",
+																			"type": "String",
+																			"value": "b_LeftFoot02_018"
+																		},
+																		{
+																			"name": "Position",
+																			"type": "Vector3",
+																			"value": "-0.157799 0 0"
+																		},
+																		{
+																			"name": "Rotation",
+																			"type": "Quaternion",
+																			"value": "0.836944 0 0 -0.547288"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										},
+										{
+											"attributes": [
+												{
+													"name": "Name",
+													"type": "String",
+													"value": "b_RightLeg01_019"
+												},
+												{
+													"name": "Position",
+													"type": "Vector3",
+													"value": "-0.048138 0.05154 0.069676"
+												},
+												{
+													"name": "Rotation",
+													"type": "Quaternion",
+													"value": "-0.24327 0 0 -0.969959"
+												}
+											],
+											"nodes": [
+												{
+													"attributes": [
+														{
+															"name": "Name",
+															"type": "String",
+															"value": "b_RightLeg02_020"
+														},
+														{
+															"name": "Position",
+															"type": "Vector3",
+															"value": "-0.189442 0 0"
+														},
+														{
+															"name": "Rotation",
+															"type": "Quaternion",
+															"value": "0.929808 0 0 0.368044"
+														}
+													],
+													"nodes": [
+														{
+															"attributes": [
+																{
+																	"name": "Name",
+																	"type": "String",
+																	"value": "b_RightFoot01_021"
+																},
+																{
+																	"name": "Position",
+																	"type": "Vector3",
+																	"value": "-0.179428 0 0"
+																},
+																{
+																	"name": "Rotation",
+																	"type": "Quaternion",
+																	"value": "0.888999 -0.000153 0 -0.457909"
+																}
+															],
+															"nodes": [
+																{
+																	"attributes": [
+																		{
+																			"name": "Name",
+																			"type": "String",
+																			"value": "b_RightFoot02_022"
+																		},
+																		{
+																			"name": "Position",
+																			"type": "Vector3",
+																			"value": "-0.157799 0 0"
+																		},
+																		{
+																			"name": "Rotation",
+																			"type": "Quaternion",
+																			"value": "0.836944 0 0 -0.547288"
+																		}
+																	]
+																}
+															]
+														}
+													]
+												}
+											]
+										}
+									]
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"attributes": [
+				{
+					"name": "Name",
+					"type": "String",
+					"value": "Default Light"
+				},
+				{
+					"name": "Position",
+					"type": "Vector3",
+					"value": "-1 2 1"
+				},
+				{
+					"name": "Rotation",
+					"type": "Quaternion",
+					"value": "0.543945 0.750533 0.375266 0"
+				}
+			],
+			"components": [
+				{
+					"_typeName": "Light",
+					"attributes": [
+						{
+							"name": "Light Type",
+							"type": "String",
+							"value": "Directional"
+						},
+						{
+							"name": "Cast Shadows",
+							"type": "Bool",
+							"value": true
+						}
+					]
+				}
+			]
+		},
+		{
+			"attributes": [
+				{
+					"name": "Name",
+					"type": "String",
+					"value": "Default Skybox"
+				},
+				{
+					"name": "Position",
+					"type": "Vector3",
+					"value": "-1 2 1"
+				}
+			],
+			"components": [
+				{
+					"_typeName": "Skybox",
+					"attributes": [
+						{
+							"name": "Model",
+							"type": "ResourceRef",
+							"value": "Model;Models/Box.mdl"
+						},
+						{
+							"name": "Material",
+							"type": "ResourceRefList",
+							"value": "Material;Materials/DefaultSkybox.xml"
+						}
+					]
+				}
+			]
+		},
+		{
+			"attributes": [
+				{
+					"name": "Name",
+					"type": "String",
+					"value": "Default Zone"
+				},
+				{
+					"name": "Position",
+					"type": "Vector3",
+					"value": "-1 2 1"
+				}
+			],
+			"components": [
+				{
+					"_typeName": "Zone",
+					"attributes": [
+						{
+							"name": "Background Brightness",
+							"type": "Float",
+							"value": 0.5
+						},
+						{
+							"name": "Zone Texture",
+							"type": "ResourceRef",
+							"value": "TextureCube;Textures/DefaultSkybox.xml"
+						}
+					]
+				}
+			]
+		}
+	]
+}

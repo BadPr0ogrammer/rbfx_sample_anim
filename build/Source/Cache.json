@@ -1,0 +1,2793 @@
+{
+	"AssetPipelineModificationTimes": [
+		{
+			"key": "Assets/image.assetpipeline",
+			"value": 1738950855
+		},
+		{
+			"key": "Assets/model.assetpipeline",
+			"value": 1738950855
+		},
+		{
+			"key": "Default.assetpipeline",
+			"value": 1739018396
+		},
+		{
+			"key": "Models/Kachujin/Kachujin_IK.AssetPipeline.json",
+			"value": 1738950855
+		}
+	],
+	"Assets": [
+		{
+			"key": "Models/Kachujin/License.txt",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/RibbonTrail.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakingTests/EmissionIndirect.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/UrhoDecal.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyTransparentMetal.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_TwistTarget.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBRMushroom.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapTerrain.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Assets/image.assetpipeline",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Binary/LightProbeGroup-0-0-0-3.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Mud/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbx",
+			"value": {
+				"modificationTime": 1738840972,
+				"outputs": [
+					"Models/Combat_jump_up.fbx.d/Textures/Soldier_Body_normal.png",
+					"Models/Combat_jump_up.fbx.d/Textures/Soldier_Body_diffuse.png",
+					"Models/Combat_jump_up.fbx.d/Textures/Soldier_head_normal.png",
+					"Models/Combat_jump_up.fbx.d/Textures/Soldier_head_diffuse.png",
+					"Models/Combat_jump_up.fbx.d/Materials/Soldier_head6_LitNormalMap.xml",
+					"Models/Combat_jump_up.fbx.d/Materials/Soldier_body1_LitNormalMap.xml",
+					"Models/Combat_jump_up.fbx.d/Models/Soldier_head.mdl",
+					"Models/Combat_jump_up.fbx.d/Models/Soldier_body.mdl",
+					"Models/Combat_jump_up.fbx.d/Animations/mixamo.com.ani",
+					"Models/Combat_jump_up.fbx.d/Animations/mixamo.com.xml",
+					"Models/Combat_jump_up.fbx.d/Prefab.prefab"
+				],
+				"transformers": [
+					"ModelImporter"
+				]
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_BendTarget.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Assets/model.assetpipeline",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/StickTargets_Base.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-6.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbm/Soldier_head_specular.png",
+			"value": {
+				"modificationTime": 1739018902
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-4.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbm/Soldier_Body_diffuse.png",
+			"value": {
+				"modificationTime": 1739018902
+			}
+		},
+		{
+			"key": "Shaders/GLSL/v2/M_PreviewTexture.glsl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Binary/LightProbeGroup-0-0-0-4.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Hull/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Check/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/AdvancedUI.rml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Textures/Decal/DecalMat.Diffuse.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Binary/LightProbeGroup-0-0-0-1.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricR5.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Binary/LightProbeGroup-0-0-0-0.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/StickTargets_Rotate.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630-5.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "StringsDe.json",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/SlidingDoor/Close.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Binary/LightProbeGroup-0-0-0-4.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/SlidingDoor/Open.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/DiamonPlate/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/NotoSans-Condensed.ttf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_PositionWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/ScreenJoystick.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/Box1x1x1.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/InverseKinematics_0.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Flare.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapGreen.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Textures/Lightmap-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Prefabs/SceneReplicationPlayer.prefab",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611-5.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/SkyWithSun.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/BrightDay1_NegX.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LimbSolver_MaxAngle.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Binary/LightProbeGroup-0-0-0-3.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-0.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/BlueHighway.sdf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LightmapMushroom.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/FishBoneLogo.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_BendTweak.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/LegacyMirror.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/LogoLarge.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Glass/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/ScreenJoystickSettings.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Materials/Showcase/PBRTerrain.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/CubicBezier.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/LitSmokeSoft.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/VColUnlit.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/PlayerFistHit.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Misc/Serializable1.serializable",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/BrightDay1_PosY.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611-2.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/StoneDiffuse.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/Anonymous Pro.sdf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LimbSolver_BendTarget.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/StoneTiled.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611-3.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbm/Soldier_head_diffuse.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Textures/BrightDay1_NegZ.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/RGBA.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbm/Soldier_head_specular.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Scenes/BakingTests/Direct.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_DirectionWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Lead/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/Fire.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LimbSolver_Targets.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricR0.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/Smoke.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/UrhoDecal.dds",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Materials/Showcase/LitWaterTiled.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/LogoLarge.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Kachujin_Walk_IK_Only.ani",
+			"value": {
+				"modificationTime": 1738950855,
+				"transformers": [
+					"IKTargetExtractor"
+				]
+			}
+		},
+		{
+			"key": "Scenes/BakingTests/BackgroundFog.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scripts/RotateObject.cs",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Lead/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Binary/LightProbeGroup-0-0-0-0.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Binary/LightProbeGroup-0-0-0-2.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Sand/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/Dust.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/RealFire/Fire.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/PlayerFist.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Assets/Fox.glb",
+			"value": {
+				"modificationTime": 1738950855,
+				"outputs": [
+					"Assets/Fox.glb.d/Textures/Texture.png",
+					"Assets/Fox.glb.d/Materials/fox_material_Lit.xml",
+					"Assets/Fox.glb.d/Models/fox1.mdl",
+					"Assets/Fox.glb.d/Animations/Run.ani",
+					"Assets/Fox.glb.d/Animations/Run.xml",
+					"Assets/Fox.glb.d/Animations/Walk.ani",
+					"Assets/Fox.glb.d/Animations/Walk.xml",
+					"Assets/Fox.glb.d/Animations/Survey.ani",
+					"Assets/Fox.glb.d/Animations/Survey.xml",
+					"Assets/Fox.glb.d/Animations/Run_IK_Only.ani",
+					"Assets/Fox.glb.d/Animations/Run_IK_Only.xml",
+					"Assets/Fox.glb.d/Animations/Survey_IK_Only.ani",
+					"Assets/Fox.glb.d/Animations/Survey_IK_Only.xml",
+					"Assets/Fox.glb.d/Animations/Walk_IK_Only.ani",
+					"Assets/Fox.glb.d/Animations/Walk_IK_Only.xml",
+					"Assets/Fox.glb.d/Prefab.prefab"
+				],
+				"transformers": [
+					"AnimationVelocityExtractor",
+					"IKTargetExtractor",
+					"ModelImporter"
+				]
+			}
+		},
+		{
+			"key": "Materials/Constant/MattTransparentFade.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/LICENSE.txt",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/GI.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbm/Soldier_head_normal.png",
+			"value": {
+				"modificationTime": 1739018902
+			}
+		},
+		{
+			"key": "Scenes/BakingTests/BounceIndirect.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Check/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbx",
+			"value": {
+				"modificationTime": 1738840972,
+				"outputs": [
+					"Models/Combat_walk_forward.fbx.d/Textures/Soldier_Body_normal.png",
+					"Models/Combat_walk_forward.fbx.d/Textures/Soldier_Body_diffuse.png",
+					"Models/Combat_walk_forward.fbx.d/Textures/Soldier_head_normal.png",
+					"Models/Combat_walk_forward.fbx.d/Textures/Soldier_head_diffuse.png",
+					"Models/Combat_walk_forward.fbx.d/Materials/Soldier_head6_LitNormalMap.xml",
+					"Models/Combat_walk_forward.fbx.d/Materials/Soldier_body1_LitNormalMap.xml",
+					"Models/Combat_walk_forward.fbx.d/Models/Soldier_head.mdl",
+					"Models/Combat_walk_forward.fbx.d/Models/Soldier_body.mdl",
+					"Models/Combat_walk_forward.fbx.d/Animations/mixamo.com.ani",
+					"Models/Combat_walk_forward.fbx.d/Animations/mixamo.com.xml",
+					"Models/Combat_walk_forward.fbx.d/Prefab.prefab"
+				],
+				"transformers": [
+					"ModelImporter"
+				]
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbm/Soldier_head_normal.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/Basis.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/HoverBikeHull.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_Tiptoe.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/BGR565.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/RealFire/Smoke.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-5.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/ArmSolver_BendTarget.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Leather/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-7.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/Lead.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_PositionWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630-3.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/UrhoDecalAlphaMaskTwoSided.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "StringsLv.json",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/HelloVR.scene",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Smoke.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricG10.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-8.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/LitWater.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/UIClicked.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/TerrainDetail3.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbm/Soldier_Body_normal.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610-5.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/UrhoIcon.png",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "UI/ScreenJoystick_Samples.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricR3.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Decal/DecalMat.Normal.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/QuadraticBezier.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-1.25x.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_1.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbm/Soldier_Body_normal.png",
+			"value": {
+				"modificationTime": 1739018902
+			}
+		},
+		{
+			"key": "Scenes/LinePrimitives.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/default.rcss",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbm/Soldier_head_diffuse.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Fonts/NotoSans-CondensedBoldItalic.ttf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Textures/Lightmap-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/rml.rcss",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Materials/Constant/MetallicR0.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/CheckboardProperties.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611-1.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapRed.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/BlueHighway.ttf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/ArmSolver_PositionWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbm/Soldier_Body_specular.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Textures/RealFire/Circle.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Textures/Lightmap-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbm/Soldier_Body_normal.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/UnitY.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/RGBA16.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/TouchInput.png",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Scenes/Isometric2D.xml",
+			"value": {
+				"modificationTime": 1738958129
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630-1.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_RotationWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Hull/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610-2.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/StoneSmall.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RibbonTrail.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Sand/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_RealtimeProbes.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MetallicR3.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/Powerup.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/Check.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/Disco.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/Refraction.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/DefaultStyle.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Scenes/CameraOperatorScene.scene",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapBlueTransparentDeep.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Materials/Kachujin.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Sand/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Kachujin.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/Mud.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Skybox.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/LightAnimation.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/InvalidShader.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-1.5x.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/LightmapTerrainDiffuseMap.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/Smoke.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/SceneLoadExample.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/UrhoIcon.icns",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Textures/Formats/BGR5A1.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/DiamonPlate.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/GI.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbm/Soldier_Body_specular.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/PTC4.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Binary/LightProbeGroup-0-0-0-5.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Sand/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Binary/LightProbeGroup-0-0-0-0.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Hull/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Particle.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-3.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Binary/LightProbeGroup-0-0-0-3.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlowingRed.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/DXT1.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/UnlitWhite.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/ETC2.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Logo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Binary/LightProbeGroup-0-0-0-5.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LimbSolver_RotationWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricG7.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/ETC1.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/RealFire.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricG5.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbm/Soldier_head_specular.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630-2.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_MaxAngle.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_MixedProbes.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/LinearBezier.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_Target.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/Leather.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Binary/LightProbeGroup-0-0-0-1.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/RotateToSolver_Target.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Mushroom.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/UrhoDecalAlpha.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/PreviewTexture3D.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/SmokeStack.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_GroundOffset.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MattWhiteTwoSided.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/Logo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610-3.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/BrightDay1_NegY.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/BigExplosion.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/PBRMushroomWind.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Leather/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/UnitX.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/DiamonPlate/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/BlueHighway.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricR10.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Mud/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Mushroom.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Binary/LightProbeGroup-0-0-0-1.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_PositionWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Input/MoveAndOrbit.inputmap",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/NotoSans-CondensedBold.ttf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Showcase/PreviewTexture2DArray.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/StickTargets_Translate.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyTransparentMetalFade.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/Terrain.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/NotoSans-CondensedItalic.ttf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Default.assetpipeline",
+			"value": {
+				"modificationTime": 1739018396
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Binary/LightProbeGroup-0-0-0-5.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/UrhoDecalAlpha.dds",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_RotationWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/RGBE.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/Invalid.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Glass/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/ArmSolver_Targets.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Prefabs/Door.prefab",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Kachujin_IK.AssetPipeline.json",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/UI.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Materials/Showcase/Stone.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/GI.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/RGBA_F32.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_Target.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Assets/UrhoIcon.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-1.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/TerrainWeights.dds",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610-4.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Stone.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-1x.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/MessageBox.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbm/Soldier_head_diffuse.png",
+			"value": {
+				"modificationTime": 1739018902
+			}
+		},
+		{
+			"key": "Materials/Showcase/PreviewTexture2DArray.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyWhiteDielectric.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/CheckboardProperties.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/SpineSolver_TwistWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/GI.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/StoneNormal.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Textures/Kachujin_diffuse.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/UILoadExample.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Textures/CheckboardProperties.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/RealFire/Distortion.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/TerrainDetail1.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/Burst.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Leather/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/RGB10A2.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/HoverBikeGlass.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_Targets.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-1x.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/Smoke.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricG0.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Textures/Lightmap-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MetallicR10.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_0/Heightmap.tga",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_LookAtWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/OFL.txt",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Ninja.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/MaterialPreview.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Prefabs/SlidingDoor.prefab",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/SlashTrail.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Mud/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/Anonymous Pro_0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LightmapMushroom.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611-4.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/ArmSolver_MaxAngle.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapWhite.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Textures/Lightmap-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_BendWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyTransparent.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Binary/LightProbeGroup-0-0-0-2.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbm/Soldier_Body_diffuse.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Materials/LightmapStone.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/Fire.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Decal/DecalMat.Diffuse.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/ScreenJoystickSettings_Samples.xml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Binary/LightProbeGroup-0-0-0-1.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlowingGreen.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/LightmapTerrainHeightMap.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Binary/LightProbeGroup-0-0-0-2.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MetallicR7.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/license.txt",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbx",
+			"value": {
+				"modificationTime": 1738840972,
+				"outputs": [
+					"Models/Combat_idle.fbx.d/Textures/Soldier_Body_normal.png",
+					"Models/Combat_idle.fbx.d/Textures/Soldier_Body_diffuse.png",
+					"Models/Combat_idle.fbx.d/Textures/Soldier_head_normal.png",
+					"Models/Combat_idle.fbx.d/Textures/Soldier_head_diffuse.png",
+					"Models/Combat_idle.fbx.d/Materials/Soldier_head6_LitNormalMap.xml",
+					"Models/Combat_idle.fbx.d/Materials/Soldier_body1_LitNormalMap.xml",
+					"Models/Combat_idle.fbx.d/Models/Soldier_head.mdl",
+					"Models/Combat_idle.fbx.d/Models/Soldier_body.mdl",
+					"Models/Combat_idle.fbx.d/Animations/mixamo.com.ani",
+					"Models/Combat_idle.fbx.d/Animations/mixamo.com.xml",
+					"Models/Combat_idle.fbx.d/Prefab.prefab"
+				],
+				"transformers": [
+					"ModelImporter"
+				]
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_MaxAngle.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Techniques/PreviewTexture.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Textures/Kachujin_normal.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/SnowExplosionGraph.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyTransparentDielectricFade.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/LitWaterPBR.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/DeferredDecal.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/window.rml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Materials/Constant/MetallicR5.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Textures/Kachujin_specular.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_NeckWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyWhite.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/SnowExplosion.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-2x.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/TerrainDetail2.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_jump_up.fbm/Soldier_Body_specular.png",
+			"value": {
+				"modificationTime": 1739018902
+			}
+		},
+		{
+			"key": "Textures/PBR/Check/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Binary/LightProbeGroup-0-0-0-4.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Binary/LightProbeGroup-0-0-0-0.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/UnlitTransparent.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/SimpleScene.scene",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Prefabs/Mushroom.prefab",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/UINavigated.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/ArmSolver_RotationWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Binary/LightProbeGroup-0-0-0-3.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Assets/README.md",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_LookAtTarget.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/Anonymous Pro.ttf",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/PBR/Sand.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Check/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/SnowExplosionBig.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/LitWaterPBRTiled.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/RGBA_F16.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/UI.png",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Textures/PBR/Leather/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/FishBoneLogo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricG3.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/SerializableInspector.rml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Fonts/Anonymous Pro_1.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/Platformer2D.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Hull/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/NutThrow.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/CelOpaque.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "UI/HelloRmlUI.rml",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Textures/SkyWithSun.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapGlowingGreen.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Particle/SnowExplosionFade.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/RealFire/Embers.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LimbSolver_BendWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "StringsEnRu.json",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Smoke.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Showcase/MushroomWind.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Skybox.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Kachujin/Kachujin_Walk.ani",
+			"value": {
+				"modificationTime": 1738950855,
+				"transformers": [
+					"IKTargetExtractor"
+				]
+			}
+		},
+		{
+			"key": "Textures/PBR/Lead/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MattRed.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/InverseKinematics_1.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/LightmapTerrainEmissiveMap.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MattTransparentGreen.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapStoneTransparent.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyTransparentFade.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/HeightMap.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/PlayerLand.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Terrain.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/SlashTrail.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/Mud/Properties.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_6_InvalidShader.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/LinePrimitives/UnitZ.mdl",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/WaterNoise.dds",
+			"value": {
+				"modificationTime": 1738950856
+			}
+		},
+		{
+			"key": "Textures/PBR/Lead/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_0.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Fonts/read_me.html",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapBlue.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/DiamonPlate/Albedo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/Circle.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-1.5x.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/Distort.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Misc/Serializable3.serializable",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/BrightDay1_PosX.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LimbSolver_PositionWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/PBRTextureLicence.txt",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapBlueTransparentShallow.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1630-4.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_MixedBoxProbes.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyWhiteMetal.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MattWhite.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/MattTransparent.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakedLightingExample.xml.d/Textures/Lightmap-1.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_idle.fbm/Soldier_Body_diffuse.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirectIndirect.xml.d/Binary/LightProbeGroup-0-0-0-2.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1611-0.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Models/Combat_walk_forward.fbm/Soldier_head_normal.png",
+			"value": {
+				"modificationTime": 1739018901
+			}
+		},
+		{
+			"key": "Textures/RmlUI-2x.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/HeadSolver_RotationWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Misc/Serializable2.serializable",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/PTC2.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlowingBlue.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/DiamonPlate/Albedo.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedDirect.xml.d/Binary/LightProbeGroup-0-0-0-5.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/DielectricR7.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/LegSolver_HeelTarget.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_BakedIndirect.xml.d/Binary/LightProbeGroup-0-0-0-2.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Sounds/SmallExplosion.wav",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LitSmoke.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RealFire/Fire.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/BrightDay1_PosZ.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_3_BakedProbes.xml.d/Textures/ReflectionProbe-1610-1.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Ninja.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/GI.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/DXT3.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Formats/DXT5.dds",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Constant/GlossyTransparentDielectric.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_2_Dynamic.xml.d/Binary/LightProbeGroup-0-0-0-4.bin",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/BakingTests/BackgroundSkybox.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/Mushroom.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Materials/LightmapLogo.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/Default.scene",
+			"value": {
+				"modificationTime": 1739018396
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_5_Extensions.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/RmlUI-1.25x.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/Logo.png",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Scenes/RenderingShowcase_4.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Animations/InverseKinematics/ArmSolver_BendWeight.xml",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		},
+		{
+			"key": "Textures/PBR/HoverBike/Glass/Normal.jpg",
+			"value": {
+				"modificationTime": 1738950855
+			}
+		}
+	]
+}
