@@ -1,0 +1,74 @@
+# Binaries
+*.so
+*.dll
+*.exe
+
+# Qt Creator project settings
+/CMakeLists.txt.user
+
+# Android project settings
+/android/local.properties
+/android/build
+
+# VSCode project settings
+/build/*
+
+# Android output directories
+gradle*
+.gradle
+
+# Visual Studio project settings
+.vs
+/CMakeSettings.json
+/out/
+
+# VSCode project settings
+.vscode
+
+# CMake generated build files
+/cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+CPackConfig.cmake
+CPackSourceConfig.cmake
+CTestTestfile.cmake
+
+# Precompiled header files
+*.gch/
+*.pch/
+*.pch.*
+
+# Custom rake tasks
+/.rake/
+.rake_t_cache
+
+# Misc.
+configure*
+*~
+*.swp
+.DS_Store
+*.log
+*.bak
+Thumbs.db
+!.ci
+*.DotSettings
+*.DotSettings.user
+__pycache__
+*.csproj.user
+*venv
+.directory
+.gdbinit
+
+# Doxygen mess from absence of 'dot' dependency
+CMakeDoxyFile.in
+CMakeDoxygenDefaults.cmake
+
+# Packaging
+packaging/nuget/local-repository/
+packaging/nuget/out/
+packaging/nuget/SDK-*
+packaging/nuget/rbfx-*.zip
